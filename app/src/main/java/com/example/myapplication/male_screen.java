@@ -15,7 +15,7 @@ public class male_screen extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.female_screen);
+        setContentView(R.layout.male_screen);
 
 
         backButton = findViewById(R.id.bButton);
